@@ -1,0 +1,9 @@
+const BLUESH = '#3185FC';
+const BACKGROUND = '#F5FAFF';
+const MILK = '#e7dddcff';
+const ORANGE = '#FD6B03';
+const SHADOWGREY = '#E8E8E8';
+const ALMOSTBLACK = '#020044';
+
+const IMAGE =
+  'https://secure.gravatar.com/avatar/5f1f3c5353f19cf8e59de4e48c291a80?d=https:%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-1.png';
